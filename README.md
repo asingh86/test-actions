@@ -1,4 +1,5 @@
-test-repo
+test-actions
 =========
 
-this is a test repo
+this is a test repo to test github actions functionality
+
